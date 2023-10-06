@@ -47,7 +47,7 @@ yarn run cypress open
 
 ### Testes criados
 
-- Adicioanr texto
+- Adicionar texto
 - Concluir Item
 - Filtrar item
 - Deletar Item
